@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**odhiambogeofrey06-star/odhiambogeofrey06-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Geofrey Odhiambo! 
 
-Here are some ideas to get you started:
+### Aerospace Engineering Student | Aspiring Engineer | Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm an Aerospace Engineering student at Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya. I'm passionate about aviation, engineering design, robotics and technological innovation.
+
+## 🚀 About Me
+- 🎓 Aerospace Engineering student at JKUAT.
+- ✈️ Interested in aviation, aircraft systems and aerospace technology.
+- 📐 Developing CAD design skills using Autodesk Inventor.
+- 💻 Learning and building projects using C++.
+- 🤖 Exploring robotics, automation and engineering innovation.
+- 🛠️ Interested in practical engineering and problem-solving.
+
+## 🧰 Technical Skills
+
+**Design and Engineering**
+- Autodesk Inventor
+- Computer-Aided Design (CAD)
+- Technical Drawing
+
+**Workshop Skills**
+- Machining
+- Welding and Fabrication
+- Metal Casting and Foundry Operations
+- Electrical Installation
+- Automotive Systems
+- Basic Masonry
+
+**Programming**
+- C++
+- Object-Oriented Programming
+
+## 🔭 Featured Projects
+
+### EcoRover
+A low-cost autonomous waste-collection rover designed to explore robotics, automation and practical engineering solutions. Currently in development.
+
+### Engineering Portfolio
+A collection of programming projects, CAD designs and engineering documentation.
+
+## 🎯 Professional Interests
+Aerospace Engineering | Aircraft Maintenance | Robotics | CAD Design | Mechanical Systems | Engineering Innovation
+
+## 🤝 Connect With Me
+- GitHub: [@odhiambogeofrey06-star](https://github.com/odhiambogeofrey06-star)
+- LinkedIn: [Add your LinkedIn profile URL here]
+
+---
+*Learning, designing and building solutions through engineering.*
+
