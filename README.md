@@ -49,7 +49,7 @@ Aerospace Engineering | Aircraft Maintenance | Robotics | CAD Design | Mechanica
 
 ## 🤝 Connect With Me
 - GitHub: [@odhiambogeofrey06-star](https://github.com/odhiambogeofrey06-star)
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn: https://www.linkedin.com/in/geofrey-odhiambo-83477a326?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 *Learning, designing and building solutions through engineering.*
