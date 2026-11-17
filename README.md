@@ -42,6 +42,8 @@ A low-cost autonomous waste-collection rover designed to explore robotics, autom
 ### Engineering Portfolio
 A collection of programming projects, CAD designs and engineering documentation.
 
+https://www.linkedin.com/in/geofrey-odhiambo-83477a326?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 ## 🎯 Professional Interests
 Aerospace Engineering | Aircraft Maintenance | Robotics | CAD Design | Mechanical Systems | Engineering Innovation
 
